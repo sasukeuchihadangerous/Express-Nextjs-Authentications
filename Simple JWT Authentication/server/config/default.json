@@ -1,0 +1,5 @@
+{
+    "serverPort": 8080,
+    "dbUrl": "dbLink",
+    "secretKey": "secretKey"
+}
